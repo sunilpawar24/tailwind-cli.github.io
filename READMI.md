@@ -23,3 +23,12 @@ git push origin main
 4. create index.html and input.css <br>
 5. index.html -->   <link rel="stylesheet" href="./output">
 6. index.html --> @import "tailwindcss";
+
+
+#git branch creation
+git branch --> how many branch in repo 
+git branch <branch name>
+ex. git branch development 
+git branch 
+git checkout <branch name>
+ex.git checkout develpoment
